@@ -1,6 +1,6 @@
 # Bahdanau Attention vs. Luong Attention
 
-This repository compares two prominent attention mechanisms used in sequence-to-sequence models: Bahdanau (additive) and Luong (multiplicative) attention.
+This note compares two prominent attention mechanisms used in sequence-to-sequence models: Bahdanau (additive) and Luong (multiplicative) attention.
 
 ## 🔗 Research Papers  
 - Bahdanau Attention: “Neural Machine Translation by Jointly Learning to Align and Translate” (https://arxiv.org/abs/1409.0473) :contentReference[oaicite:2]{index=2}  
