@@ -4,6 +4,11 @@ Multi Head Attention is a key component of the Transformer architecture.
 It allows the model to focus on different types of relationships in the input at the same time.  
 Instead of computing one attention pattern, the model computes several parallel attention heads and combines their outputs.
 
+<!-- Add image  -->
+<p align="center">
+  <img src="multihead.jpg" width="450">
+</p>
+
 ---
 
 ## 🔍 What Multi Head Attention Does
@@ -52,10 +57,6 @@ Multi Head Attention is one of the main reasons Transformers outperform RNNs and
 - Reduced risk of losing important contextual details  
 
 ---
-<!-- Add image  -->
-<p align="center">
-  <img src="multihead.jpg" width="450">
-</p>
 
 
 ## 📚 Research Papers
